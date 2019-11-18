@@ -1,2 +1,2 @@
-# ionic3-chat
- ionic3 chat 
+# ionic-chat
+ ionic chat 
