@@ -1,0 +1,89 @@
+{
+  "array":[
+    {
+      "messageId":"1",
+      "userId":"140000198202211138",
+      "userName":"Pepe",
+      "userImgUrl":"./assets/user.jpg",
+      "toUserId":"210000198410281948",
+      "toUserName":"Tester",
+      "userAvatar":"./assets/to-user.jpg",
+      "time":1488349800000,
+      "message":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "status":"success"
+
+    },
+    {
+      "messageId":"2",
+      "userId":"210000198410281948",
+      "userName":"Tester",
+      "userImgUrl":"./assets/to-user.jpg",
+      "toUserId":"140000198202211138",
+      "toUserName":"Pepe",
+      "userAvatar":"./assets/user.jpg",
+      "time":1491034800000,
+      "message":"Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "status":"success"
+    },
+    {
+      "messageId":"3",
+      "userId":"140000198202211138",
+      "userName":"Pepe",
+      "userImgUrl":"./assets/user.jpg",
+      "toUserId":"210000198410281948",
+      "toUserName":"Tester",
+      "userAvatar":"./assets/to-user.jpg",
+      "time":1491034920000,
+      "message":"It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+      "status":"success"
+    },
+    {
+      "messageId":"4",
+      "userId":"210000198410281948",
+      "userName":"Tester",
+      "userImgUrl":"./assets/to-user.jpg",
+      "toUserId":"140000198202211138",
+      "toUserName":"Pepe",
+      "userAvatar":"./assets/user.jpg",
+      "time":1491036720000,
+      "message":" It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "status":"success"
+    },
+    {
+      "messageId":"5",
+      "userId":"210000198410281948",
+      "userName":"Tester",
+      "userImgUrl":"./assets/to-user.jpg",
+      "toUserId":"140000198202211138",
+      "toUserName":"Pepe",
+      "userAvatar":"./assets/user.jpg",
+      "time":1491108720000,
+      "message":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+      "status":"success"
+    },
+    {
+      "messageId":"6",
+      "userId":"140000198202211138",
+      "userName":"Pepe",
+      "userImgUrl":"./assets/user.jpg",
+      "toUserId":"210000198410281948",
+      "toUserName":"Tester",
+      "userAvatar":"./assets/to-user.jpg",
+      "time":1491231120000,
+      "message":"The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here.",
+      "status":"success"
+    },
+    {
+      "messageId":"7",
+      "userId":"140000198202211138",
+      "userName":"Pepe",
+      "userImgUrl":"./assets/user.jpg",
+      "toUserId":"210000198410281948",
+      "toUserName":"Tester",
+      "userAvatar":"./assets/to-user.jpg",
+      "time":1491231150000,
+      "message":"Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text.",
+      "status":"success"
+    }
+  ]
+}

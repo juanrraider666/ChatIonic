@@ -1,0 +1,6 @@
+{
+  "name": "chat",
+  "integrations": {
+    "cordova": {}
+  }
+}
